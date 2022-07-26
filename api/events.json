@@ -2,7 +2,8 @@
   {
     "primaryName" : "Papa",
     "timestamp" : -263952000,
-    "type" : "birthday"
+    "type" : "birthday",
+    "imageURL" : "https://sebthibert.github.io/images/papa.png"
   },
   {
     "primaryName" : "Mama",
