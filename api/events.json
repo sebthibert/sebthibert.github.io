@@ -2,7 +2,7 @@
   {
     "primaryName" : "Hannah",
     "timestamp" : 840585600,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends"
     ]
@@ -10,8 +10,7 @@
   {
     "primaryName" : "Papa",
     "timestamp" : -263952000,
-    "type" : "birthday",
-    "imageURL" : "https://sebthibert.github.io/images/papa.png",
+    "category" : "birthday",
     "labels" : [
       "family"
     ]
@@ -19,7 +18,7 @@
   {
     "primaryName" : "Mama",
     "timestamp" : -214444800,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "family"
     ]
@@ -27,7 +26,7 @@
   {
     "primaryName" : "Sojo",
     "timestamp" : 837993600,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "family"
     ]
@@ -36,7 +35,7 @@
     "primaryName" : "Seb",
     "secondaryName" : "Sia",
     "timestamp" : 1536451200,
-    "type" : "anniversary",
+    "category" : "anniversary",
     "labels" : [
       "love"
     ]
@@ -44,7 +43,7 @@
   {
     "primaryName" : "Olivier",
     "timestamp" : 1601769600,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "family"
     ]
@@ -52,7 +51,7 @@
   {
     "primaryName" : "Guillaume",
     "timestamp" : 688780800,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "family"
     ]
@@ -60,7 +59,7 @@
   {
     "primaryName" : "Charlie",
     "timestamp" : 783734400,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends"
     ]
@@ -68,7 +67,7 @@
   {
     "primaryName" : "Gabrielle",
     "timestamp" : 1511740800,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "family"
     ]
@@ -76,7 +75,7 @@
   {
     "primaryName" : "Nannie",
     "timestamp" : -1163980800,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "family"
     ]
@@ -84,7 +83,7 @@
   {
     "primaryName" : "Jordane",
     "timestamp" : 667699200,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "family"
     ]
@@ -92,7 +91,7 @@
   {
     "primaryName" : "Laurence",
     "timestamp" : 1553731200,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "family"
     ]
@@ -100,7 +99,7 @@
   {
     "primaryName" : "Fabia",
     "timestamp" : -465696000,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "family"
     ]
@@ -108,7 +107,7 @@
   {
     "primaryName" : "Jack",
     "timestamp" : 734745600,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends",
       "rgm"
@@ -117,7 +116,7 @@
   {
     "primaryName" : "Brembo",
     "timestamp" : 735436800,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends",
       "rgm"
@@ -126,7 +125,7 @@
   {
     "primaryName" : "Sia",
     "timestamp" : 766972800,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "love",
       "family",
@@ -136,7 +135,7 @@
   {
     "primaryName" : "Rosie",
     "timestamp" : 705542400,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends"
     ]
@@ -144,7 +143,7 @@
   {
     "primaryName" : "Josh",
     "timestamp" : 737164800,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends",
       "rgm"
@@ -153,7 +152,7 @@
   {
     "primaryName" : "Chris Hanson",
     "timestamp" : 738460800,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends"
     ]
@@ -161,7 +160,7 @@
   {
     "primaryName" : "James Ross",
     "timestamp" : 682214400,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends"
     ]
@@ -169,7 +168,7 @@
   {
     "primaryName" : "Thompy",
     "timestamp" : 741052800,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends",
       "rgm"
@@ -178,7 +177,7 @@
   {
     "primaryName" : "Vince",
     "timestamp" : 710208000,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "family"
     ]
@@ -186,7 +185,7 @@
   {
     "primaryName" : "The Great Simondo",
     "timestamp" : 747532800,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends"
     ]
@@ -194,7 +193,7 @@
   {
     "primaryName" : "Chris D'Sausage",
     "timestamp" : 740188800,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends",
       "rgm"
@@ -203,7 +202,7 @@
   {
     "primaryName" : "Dylbo",
     "timestamp" : 731289600,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends",
       "rgm"
@@ -212,7 +211,7 @@
   {
     "primaryName" : "Reece",
     "timestamp" : 739324800,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends",
       "rgm"
@@ -221,7 +220,7 @@
   {
     "primaryName" : "Lukey Coley",
     "timestamp" : 743472000,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends",
       "rgm"
@@ -230,7 +229,7 @@
   {
     "primaryName" : "Rhysy Pezza",
     "timestamp" : 746496000,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends"
     ]
@@ -238,7 +237,7 @@
   {
     "primaryName" : "Colwilliams",
     "timestamp" : 716428800,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends",
       "rgm"
@@ -247,7 +246,7 @@
   {
     "primaryName" : "Seany",
     "timestamp" : 743644800,
-    "type" : "birthday",
+    "category" : "birthday",
     "labels" : [
       "friends",
       "rgm"
