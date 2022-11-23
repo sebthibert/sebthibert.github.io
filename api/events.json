@@ -251,5 +251,13 @@
       "friends",
       "rgm"
     ]
-  }
+  },
+    {
+    "primaryName" : "Loic",
+    "timestamp" : 1448150400,
+    "category" : "birthday",
+    "labels" : [
+      "family"
+    ]
+  },
 ]
