@@ -252,7 +252,7 @@
       "rgm"
     ]
   },
-    {
+  {
     "primaryName" : "Loic",
     "timestamp" : 1448150400,
     "category" : "birthday",
@@ -260,4 +260,12 @@
       "family"
     ]
   },
+  {
+    "primaryName" : "Luis",
+    "timestamp" : 1448150400,
+    "category" : "birthday",
+    "labels" : [
+      "friends"
+    ]
+  }
 ]
