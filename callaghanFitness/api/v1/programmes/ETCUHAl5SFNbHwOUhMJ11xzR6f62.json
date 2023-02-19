@@ -4,14 +4,28 @@
 			"name": "Push",
 			"description": "Push day uses push movements to activate your juicy muscles.",
 			"exercises": [
-				"8e8893f2-caef-4a21-97ae-e8bad6006743"
+				{
+					"id": "8e8893f2-caef-4a21-97ae-e8bad6006743",
+					"sets": 4,
+					"reps": {
+						"lower": 8,
+						"higher": 10
+					}
+				}
 			]
 		},
 		{
 			"name": "Pull",
 			"description": "Push day uses push movements to activate your juicy muscles.",
 			"exercises": [
-				"8e8893f2-caef-4a21-97ae-e8bad6006743"
+				{
+					"id": "8e8893f2-caef-4a21-97ae-e8bad6006743",
+					"sets": 4,
+					"reps": {
+						"lower": 8,
+						"higher": 10
+					}
+				}
 			]
 		}
 	]
