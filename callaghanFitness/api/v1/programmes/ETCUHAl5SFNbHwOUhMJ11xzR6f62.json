@@ -1,10 +1,10 @@
 {
 	"workouts": [
 		{
-			"id": "c9d84ae2-d066-11ed-afa1-0242ac120002",
+			"id": "3650028B-2573-4700-BEC1-2A3D9400E70D",
 			"exercises": [
 				{
-					"id": "8e8893f2-caef-4a21-97ae-e8bad6006743",
+					"id": "CD615C92-0D5B-4B78-B2ED-68FA97B9B8D7",
 					"sets": 4,
 					"reps": {
 						"lower": 8,
@@ -15,10 +15,10 @@
 			"week": 1
 		},
 		{
-			"id": "cfe5a9a18-d066-11ed-afa1-0242ac120002",
+			"id": "6EC1688E-CEAC-4F68-92AD-D47AD1A0E968",
 			"exercises": [
 				{
-					"id": "328380f2-d067-11ed-afa1-0242ac120002",
+					"id": "DC220500-97B8-41E1-A8FF-92A4FC9BA643",
 					"sets": 4,
 					"reps": {
 						"lower": 10,
