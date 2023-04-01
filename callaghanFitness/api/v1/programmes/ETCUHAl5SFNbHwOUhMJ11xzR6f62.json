@@ -1,8 +1,7 @@
 {
-	"firstMonth": [
+	"workouts": [
 		{
-			"name": "Push",
-			"detail": "Push day uses push movements to activate your juicy muscles.",
+			"id": "c9d84ae2-d066-11ed-afa1-0242ac120002",
 			"exercises": [
 				{
 					"id": "8e8893f2-caef-4a21-97ae-e8bad6006743",
@@ -12,81 +11,22 @@
 						"higher": 10
 					}
 				}
-			]
+			],
+			"week": 1
 		},
 		{
-			"name": "Pull",
-			"detail": "Push day uses push movements to activate your juicy muscles.",
+			"id": "cfe5a9a18-d066-11ed-afa1-0242ac120002",
 			"exercises": [
 				{
-					"id": "8e8893f2-caef-4a21-97ae-e8bad6006743",
+					"id": "328380f2-d067-11ed-afa1-0242ac120002",
 					"sets": 4,
 					"reps": {
-						"lower": 8,
+						"lower": 10,
 						"higher": 10
 					}
 				}
-			]
-		}
-	],
-	"secondMonth": [
-		{
-			"name": "Push",
-			"detail": "Push day uses push movements to activate your juicy muscles.",
-			"exercises": [
-				{
-					"id": "8e8893f2-caef-4a21-97ae-e8bad6006743",
-					"sets": 4,
-					"reps": {
-						"lower": 8,
-						"higher": 10
-					}
-				}
-			]
-		},
-		{
-			"name": "Pull",
-			"detail": "Push day uses push movements to activate your juicy muscles.",
-			"exercises": [
-				{
-					"id": "8e8893f2-caef-4a21-97ae-e8bad6006743",
-					"sets": 4,
-					"reps": {
-						"lower": 8,
-						"higher": 10
-					}
-				}
-			]
-		}
-	],
-	"thirdMonth": [
-		{
-			"name": "Push",
-			"detail": "Push day uses push movements to activate your juicy muscles.",
-			"exercises": [
-				{
-					"id": "8e8893f2-caef-4a21-97ae-e8bad6006743",
-					"sets": 4,
-					"reps": {
-						"lower": 8,
-						"higher": 10
-					}
-				}
-			]
-		},
-		{
-			"name": "Pull",
-			"detail": "Push day uses push movements to activate your juicy muscles.",
-			"exercises": [
-				{
-					"id": "8e8893f2-caef-4a21-97ae-e8bad6006743",
-					"sets": 4,
-					"reps": {
-						"lower": 8,
-						"higher": 10
-					}
-				}
-			]
+			],
+			"week": 1
 		}
 	]
 }
