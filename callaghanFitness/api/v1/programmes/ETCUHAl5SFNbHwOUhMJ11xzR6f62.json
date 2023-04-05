@@ -31,8 +31,9 @@
 	],
 	"macros": {
 		"detail": "These macros have been chosen to help you achieve this goal.",
-		"carbs": 50,
-		"fat": 20,
-		"protein": 30
+		"calories": 2100,
+		"carbs": 210,
+		"fat": 70,
+		"protein": 210
 	}
 }
