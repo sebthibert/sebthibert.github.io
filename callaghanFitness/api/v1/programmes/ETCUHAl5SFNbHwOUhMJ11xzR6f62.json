@@ -78,6 +78,14 @@
 						"lower": 10,
 						"higher": 10
 					}
+				},
+				{
+					"id": "DC220500-97B8-41E1-A8FF-92A4FC9BA643",
+					"sets": 4,
+					"reps": {
+						"lower": 10,
+						"higher": 10
+					}
 				}
 			],
 			"week": 1
