@@ -104,9 +104,18 @@
 	"macros": {
 		"detail": "These macros have been chosen to help you achieve this goal.",
 		"calories": 2100,
-		"carbs": 210,
-		"fat": 70,
-		"protein": 210
+		"carbs": { 
+			"grams": 200,
+			"percent": 0.6
+		},
+		"fat": { 
+			"grams": 40,
+			"percent": 0.1
+		},
+		"protein": { 
+			"grams": 120,
+			"percent": 0.3
+		}
 	},
 	"checkIns": [
 		{
