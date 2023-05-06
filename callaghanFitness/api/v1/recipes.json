@@ -12,6 +12,7 @@
 		"calories": 219,
 		"vegetarian": true,
 		"vegan": true,
+		"glutenFree": false,
 		"ingredients": [
 			"2l vegetable or ham stock",
       		"150g red lentils",
