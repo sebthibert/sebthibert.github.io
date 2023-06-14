@@ -1,7 +1,10 @@
-[
-  {
-    "id": "7849f7b3-d7bf-4458-8813-d8c7a5be281d",
-    "quote": "Just one small positive thought in the morning can change your whole day.",
-    "author": "Dalai Lama"
-  }
-]
+{
+  "featured": "7849f7b3-d7bf-4458-8813-d8c7a5be281d",
+  "quotes": [
+    {
+      "id": "7849f7b3-d7bf-4458-8813-d8c7a5be281d",
+      "quote": "Just one small positive thought in the morning can change your whole day.",
+      "author": "Dalai Lama"
+    }
+  ]
+}
