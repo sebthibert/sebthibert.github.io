@@ -128,6 +128,35 @@
 						"lower": 15,
 						"higher": 20
 					}
+				},
+				{
+					"id": "99e38749-8d34-4bc3-b668-0d93934a307b",
+					"exerciseID": "f8278f7b-4a4e-466d-b26d-54170919ae65",
+					"sets": 4,
+					"reps": {
+						"lower": 10,
+						"higher": 10
+					},
+					"notes": "10 reps for each side.",
+					"superset": {
+						"id": "9c7e2120-c864-4159-b12c-049adda25898",
+						"exerciseID": "e7887075-040b-462e-8fee-04a900936e47",
+						"sets": 4,
+						"notes": "10 reps for each side.",
+						"reps": {
+							"lower": 10,
+							"higher": 10
+						}
+					}
+				},
+				{
+					"id": "dca2235d-3033-4e98-8324-b3bd06abb434",
+					"exerciseID": "d30f8b18-5bb7-409a-96ad-0da8350ee989",
+					"sets": 3,
+					"reps": {
+						"lower": 12,
+						"higher": 12
+					}
 				}
 				
 			],

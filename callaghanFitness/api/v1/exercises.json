@@ -110,5 +110,26 @@
 		"detail": "Must be added",
 		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
 		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
+	},
+	{
+		"id": "d30f8b18-5bb7-409a-96ad-0da8350ee989",
+		"name": "Dumbell RDL",
+		"detail": "Must be added",
+		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
+		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
+	},
+	{
+		"id": "f8278f7b-4a4e-466d-b26d-54170919ae65",
+		"name": "Single leg leg extension",
+		"detail": "Must be added",
+		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
+		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
+	},
+	{
+		"id": "e7887075-040b-462e-8fee-04a900936e47",
+		"name": "Alternating dumbbell lunge",
+		"detail": "Must be added",
+		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
+		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
 	}
 ]
