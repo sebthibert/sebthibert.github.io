@@ -2,11 +2,31 @@
 	{
 		"id": "3650028B-2573-4700-BEC1-2A3D9400E70D",
 		"name": "Push",
-		"detail": "Push day uses push movements to activate your juicy muscles."
+		"detail": "Must be added"
 	},
 	{
 		"id": "6EC1688E-CEAC-4F68-92AD-D47AD1A0E968",
 		"name": "Pull",
-		"detail": "Pull day uses pull movements to activate your juicy muscles."
+		"detail": "Must be added"
+	},
+	{
+		"id": "411a4959-55fb-4ea7-8dc8-a4bc32a43c07",
+		"name": "Legs",
+		"detail": "Must be added"
+	},
+	{
+		"id": "30ec2f4a-dd55-4553-aa56-0b1cef645e45",
+		"name": "Upper Body",
+		"detail": "Must be added"
+	},
+	{
+		"id": "94ee131f-67d3-4976-b9a6-456bc5e74c48",
+		"name": "Lower Body",
+		"detail": "Must be added"
+	},
+	{
+		"id": "2734927e-234c-4334-a886-7f34849011a7",
+		"name": "Full Body",
+		"detail": "Must be added"
 	}
 ]

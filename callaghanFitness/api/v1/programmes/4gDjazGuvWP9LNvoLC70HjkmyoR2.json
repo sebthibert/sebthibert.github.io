@@ -1,6 +1,7 @@
-// Test User
+// Shaun
 {
 	"workouts": [
+		// Push
 		{
 			"id": "3650028B-2573-4700-BEC1-2A3D9400E70D",
 			"exercises": [
@@ -76,6 +77,7 @@
 			],
 			"week": 1
 		},
+		// Pull
 		{
 			"id": "6EC1688E-CEAC-4F68-92AD-D47AD1A0E968",
 			"exercises": [
@@ -99,22 +101,57 @@
 				}
 			],
 			"week": 1
+		},
+		// Legs
+		{
+			"id": "411a4959-55fb-4ea7-8dc8-a4bc32a43c07",
+			"exercises": [
+				{
+					"id": "c5a8fd9e-2608-45ff-93c4-f418727aa84d",
+					"exerciseID": "98856bfc-6720-4370-a424-2a881ef637b9",
+					"sets": 2,
+					"reps": {
+						"lower": 6,
+						"higher": 8
+					}
+				},
+				{
+					"id": "89e20af2-b30f-4b54-a862-4ef626be66d9",
+					"exerciseID": "98856bfc-6720-4370-a424-2a881ef637b9",
+					"sets": 2,
+					"reps": {
+						"lower": 10,
+						"higher": 12
+					}
+				},
+				{
+					"id": "1b70df4c-8e5b-4de0-bf10-f85b724832d0",
+					"exerciseID": "98856bfc-6720-4370-a424-2a881ef637b9",
+					"sets": 1,
+					"reps": {
+						"lower": 15,
+						"higher": 20
+					}
+				}
+				
+			],
+			"week": 1
 		}
 	],
 	"macros": {
 		"detail": "These macros have been chosen to help you achieve this goal.",
-		"calories": 2100,
+		"calories": 2700,
 		"carbs": { 
-			"grams": 200,
-			"percent": 0.6
+			"grams": 203,
+			"percent": 0.3
 		},
 		"fat": { 
-			"grams": 40,
-			"percent": 0.1
+			"grams": 90,
+			"percent": 0.3
 		},
 		"protein": { 
-			"grams": 120,
-			"percent": 0.3
+			"grams": 270,
+			"percent": 0.4
 		}
 	},
 	"checkIns": [

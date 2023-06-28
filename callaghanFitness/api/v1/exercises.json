@@ -2,63 +2,112 @@
 	{
 		"id": "CD615C92-0D5B-4B78-B2ED-68FA97B9B8D7",
 		"name": "Flat barbell bench press",
-		"detail": "This exercise is great for sorting out your juicy pecs.",
+		"detail": "Must be added",
+		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
+		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
+	},
+	{
+		"id": "c1468a71-94f4-455e-90e1-b7a6d4f7b586",
+		"name": "Arnold press",
+		"detail": "Must be added",
+		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
+		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
+	},
+	{
+		"id": "0a9cccc7-134b-430a-b1d1-128156f78eea",
+		"name": "Tricep dips",
+		"detail": "Must be added",
+		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
+		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
+	},
+	{
+		"id": "dde53638-0b6a-4455-8d42-c33b7acd5bc0",
+		"name": "Flat dumbbell bench press",
+		"detail": "Must be added",
+		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
+		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
+	},
+	{
+		"id": "c589c37b-8f3d-4741-8481-7893ca377cc8",
+		"name": "Incline dumbbell bench press",
+		"detail": "Must be added",
+		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
+		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
+	},
+	{
+		"id": "b1542722-3fc0-496b-b218-3a9c409e6a97",
+		"name": "Single arm row",
+		"detail": "Must be added",
 		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
 		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
 	},
 	{
 		"id": "DC220500-97B8-41E1-A8FF-92A4FC9BA643",
 		"name": "Romanian dead lift",
-		"detail": "This exercise is great for sorting out your juicy hammies.",
+		"detail": "Must be added",
 		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
 		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
 	},
 	{
 		"id": "7753CBDF-91DC-4744-B9BA-739D92FB1081",
 		"name": "Incline dumbbell bench press",
-		"detail": "This exercise is great for sorting out your juicy peccles.",
+		"detail": "Must be added",
 		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
 		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
 	},
 	{
 		"id": "AD180583-A37D-4865-AFDE-9A9857A4B3CE",
 		"name": "Dumbbell shoulder press",
-		"detail": "This exercise is great for sorting out your juicy shoulders.",
+		"detail": "Must be added",
 		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
 		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
 	},
 	{
 		"id": "A74F6420-BB53-4F10-8DCB-E517C5CD3BAA",
 		"name": "Side lateral raises",
-		"detail": "This exercise is great for sorting out your juicy side lats.",
+		"detail": "Must be added",
 		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
 		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
 	},
 	{
 		"id": "E663F44A-FD30-4E51-AA1B-13D56277D6DC",
 		"name": "Frontal raises",
-		"detail": "This exercise is great for sorting out your juicy front shoulder bits.",
+		"detail": "Must be added",
 		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
 		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
 	},
 	{
 		"id": "0D48C0E6-17A3-416A-81F8-F01C9142408A",
 		"name": "Tricep push downs",
-		"detail": "This exercise is great for sorting out your juicy tris.",
+		"detail": "Must be added",
 		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
 		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
 	},
 	{
 		"id": "170CC9CC-5C42-4A4A-A820-C3A2D386134D",
 		"name": "Tricep dips",
-		"detail": "This exercise is great for sorting out your juicy tris.",
+		"detail": "Must be added",
 		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
 		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
 	},
 	{
 		"id": "4569F172-4753-4E29-AF0F-E4CC13C9CF67",
 		"name": "Push ups",
-		"detail": "This exercise is great for sorting out chesties and shoulders.",
+		"detail": "Must be added",
+		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
+		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
+	},
+	{
+		"id": "b2000239-0307-4d0f-82a3-264fba1fe113",
+		"name": "Seated dumbell shoulder press",
+		"detail": "Must be added",
+		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
+		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
+	},
+	{
+		"id": "98856bfc-6720-4370-a424-2a881ef637b9",
+		"name": "Leg press",
+		"detail": "Must be added",
 		"thumbnail": "https://images.ctfassets.net/h7l0s162pi54/1IZbDnM1diubVjR6OIsT03/75222b64412369ff5ec12387dab276de/luis.3.jpg",
 		"video": "https://videos.ctfassets.net/h7l0s162pi54/5uOq1iBfCMyJzheU03yQOi/0c9ce61d11846e064cb19e729c579c74/video.mov"
 	}
