@@ -1,7 +1,5 @@
-// Shaun
 {
 	"workouts": [
-		// Push
 		{
 			"id": "3650028B-2573-4700-BEC1-2A3D9400E70D",
 			"exercises": [
@@ -77,7 +75,6 @@
 			],
 			"week": 1
 		},
-		// Pull
 		{
 			"id": "6EC1688E-CEAC-4F68-92AD-D47AD1A0E968",
 			"exercises": [
@@ -102,7 +99,6 @@
 			],
 			"week": 1
 		},
-		// Legs
 		{
 			"id": "411a4959-55fb-4ea7-8dc8-a4bc32a43c07",
 			"exercises": [
