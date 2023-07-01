@@ -12,15 +12,7 @@
 		"detail": "Must be added"
 	},
 	{
-		"name": "Upper Body",
-		"detail": "Must be added"
-	},
-	{
-		"name": "Lower Body",
-		"detail": "Must be added"
-	},
-	{
-		"name": "Full Body",
+		"name": "SC/Upper",
 		"detail": "Must be added"
 	}
 ]

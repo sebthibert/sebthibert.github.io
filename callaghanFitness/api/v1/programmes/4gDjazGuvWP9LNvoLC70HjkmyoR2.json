@@ -20,7 +20,7 @@
 			"exercises": [
 				{
 					"id": "D4641C27-08FD-449B-B740-6CF678B91EA3",
-					"name": "Romanian dead lift",
+					"name": "Romanian dead lifts",
 					"sets": 4,
 					"reps": {
 						"lower": 10,
@@ -71,7 +71,7 @@
 					"notes": "10 reps for each side.",
 					"superset": {
 						"id": "9c7e2120-c864-4159-b12c-049adda25898",
-						"name": "Alternating dumbbell lunge",
+						"name": "Alternating dumbbell lunges",
 						"sets": 4,
 						"notes": "10 reps for each side.",
 						"reps": {
@@ -82,14 +82,55 @@
 				},
 				{
 					"id": "dca2235d-3033-4e98-8324-b3bd06abb434",
-					"name": "Dumbell Romanian dead lift",
+					"name": "Dumbell Romanian dead lifts",
 					"sets": 3,
 					"reps": {
 						"lower": 12,
 						"higher": 12
 					}
+				},
+				{
+					"id": "bfa4873a-39c2-4153-aa12-7d31a1c7b86d",
+					"name": "Front foot elevated split squat",
+					"sets": 3,
+					"reps": {
+						"lower": 12,
+						"higher": 12
+					}
+				},
+				{
+					"id": "65ed4e2e-ad63-428f-bc03-f41278e2eea4",
+					"name": "Front dumbbell squat",
+					"sets": 4,
+					"reps": {
+						"lower": 10,
+						"higher": 10
+					}
+				},
+				{
+					"id": "6c6f17ab-a5e7-421d-8aac-77974aafeeb5",
+					"name": "Calf raises",
+					"sets": 3,
+					"reps": {
+						"lower": 15,
+						"higher": 15
+					}
 				}
-				
+			],
+			"week": 1
+		},
+		{
+			"name": "SC/Upper",
+			"exercises": [
+				{
+					"id": "fd0c4561-4e65-4326-b31b-b5e87db5902e",
+					"name": "Romanian dead lifts",
+					"sets": 4,
+					"reps": {
+						"lower": 10,
+						"higher": 10
+					}
+				}
 			],
 			"week": 1
 		}
