@@ -130,5 +130,41 @@
 		"detail": "Must be added",
 		"thumbnail": "https://raw.githubusercontent.com/sebthibert/sebthibert.github.io/main/callaghanFitness/images/exercises/test.jpg",
 		"video": "https://www.youtube.com/embed/kAVZ_Bld9FU"
+	},
+	{
+		"name": "Single arm dumbbell clean and press",
+		"detail": "Must be added",
+		"thumbnail": "https://raw.githubusercontent.com/sebthibert/sebthibert.github.io/main/callaghanFitness/images/exercises/test.jpg",
+		"video": "https://www.youtube.com/embed/kAVZ_Bld9FU"
+	},
+	{
+		"name": "Pull ups",
+		"detail": "Must be added",
+		"thumbnail": "https://raw.githubusercontent.com/sebthibert/sebthibert.github.io/main/callaghanFitness/images/exercises/test.jpg",
+		"video": "https://www.youtube.com/embed/kAVZ_Bld9FU"
+	},
+	{
+		"name": "Lateral lunges",
+		"detail": "Must be added",
+		"thumbnail": "https://raw.githubusercontent.com/sebthibert/sebthibert.github.io/main/callaghanFitness/images/exercises/test.jpg",
+		"video": "https://www.youtube.com/embed/kAVZ_Bld9FU"
+	},
+	{
+		"name": "Medicine ball lunge twists",
+		"detail": "Must be added",
+		"thumbnail": "https://raw.githubusercontent.com/sebthibert/sebthibert.github.io/main/callaghanFitness/images/exercises/test.jpg",
+		"video": "https://www.youtube.com/embed/kAVZ_Bld9FU"
+	},
+	{
+		"name": "Single leg step ups",
+		"detail": "Must be added",
+		"thumbnail": "https://raw.githubusercontent.com/sebthibert/sebthibert.github.io/main/callaghanFitness/images/exercises/test.jpg",
+		"video": "https://www.youtube.com/embed/kAVZ_Bld9FU"
+	},
+	{
+		"name": "Seated dumbbell bicep curls",
+		"detail": "Must be added",
+		"thumbnail": "https://raw.githubusercontent.com/sebthibert/sebthibert.github.io/main/callaghanFitness/images/exercises/test.jpg",
+		"video": "https://www.youtube.com/embed/kAVZ_Bld9FU"
 	}
 ]

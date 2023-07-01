@@ -124,7 +124,62 @@
 			"exercises": [
 				{
 					"id": "fd0c4561-4e65-4326-b31b-b5e87db5902e",
-					"name": "Romanian dead lifts",
+					"name": "Flat barbell bench press",
+					"sets": 4,
+					"reps": {
+						"lower": 8,
+						"higher": 8
+					}
+				},
+				{
+					"id": "cb61a52a-dbce-40c2-93ce-257162c5fc19",
+					"name": "Single arm dumbbell clean and press",
+					"sets": 3,
+					"reps": {
+						"lower": 12,
+						"higher": 12
+					}
+				},
+				{
+					"id": "01afe2a7-aff8-44f0-81cf-5157af4ab6a5",
+					"name": "Pull ups",
+					"sets": 3,
+					"reps": {
+						"lower": 6,
+						"higher": 8
+					}
+				},
+				{
+					"id": "41811192-4d7f-42cb-a94a-d94770bd0936",
+					"name": "Lateral lunges",
+					"sets": 4,
+					"reps": {
+						"lower": 10,
+						"higher": 10
+					},
+					"superset": {
+						"id": "d4ad02bd-a772-4ff6-bad7-17c06dc2703f",
+						"name": "Medicine ball lunge twists",
+						"sets": 4,
+						"reps": {
+							"lower": 10,
+							"higher": 10
+						}
+					}
+
+				},
+				{
+					"id": "11e21f57-1ebe-473a-a186-6842e82ef0e3",
+					"name": "Single leg step ups",
+					"sets": 3,
+					"reps": {
+						"lower": 12,
+						"higher": 12
+					}
+				},
+				{
+					"id": "a3e6eed2-0d51-40f7-888e-166031092aaa",
+					"name": "Seated dumbbell bicep curls",
 					"sets": 4,
 					"reps": {
 						"lower": 10,
