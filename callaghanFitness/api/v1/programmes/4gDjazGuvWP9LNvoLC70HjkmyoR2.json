@@ -1,95 +1,26 @@
 {
 	"workouts": [
 		{
-			"id": "3650028B-2573-4700-BEC1-2A3D9400E70D",
+			"name": "Push",
 			"exercises": [
 				{
 					"id": "542515B9-8145-4B19-B343-0D45DBD0F999",
-					"exerciseID": "CD615C92-0D5B-4B78-B2ED-68FA97B9B8D7",
+					"name": "Flat barbell bench press",
 					"sets": 4,
 					"reps": {
 						"lower": 12,
 						"higher": 12
 					}
-				},
-				{
-					"id": "5094A129-570E-444E-8D74-E70C974E93FE",
-					"exerciseID": "7753CBDF-91DC-4744-B9BA-739D92FB1081",
-					"sets": 4,
-					"reps": {
-						"lower": 10,
-						"higher": 10
-					}
-				},
-				{
-					"id": "1BC71D03-ACD9-4924-AEDF-9CA8A20B96C0",
-					"exerciseID": "AD180583-A37D-4865-AFDE-9A9857A4B3CE",
-					"sets": 4,
-					"reps": {
-						"lower": 12,
-						"higher": 12
-					}
-				},
-				{
-					"id": "37C3B42B-06AD-47AF-ACA2-E6D3ED60CFD0",
-					"exerciseID": "A74F6420-BB53-4F10-8DCB-E517C5CD3BAA",
-					"sets": 3,
-					"reps": {
-						"lower": 10,
-						"higher": 10
-					},
-					"superset": {
-						"id": "772F0871-AC9D-44ED-9EBC-C534D9222600",
-						"exerciseID": "E663F44A-FD30-4E51-AA1B-13D56277D6DC",
-						"sets": 3,
-						"reps": {
-							"lower": 10,
-							"higher": 10
-						}
-					}
-				},
-				{
-					"id": "18A7A217-53FC-4B54-A365-63263ABA06D9",
-					"exerciseID": "0D48C0E6-17A3-416A-81F8-F01C9142408A",
-					"sets": 3,
-					"reps": {
-						"lower": 15,
-						"higher": 15
-					}
-				},
-				{
-					"id": "A2A1D531-CAE8-44A7-87C4-36ED649CC91D",
-					"exerciseID": "170CC9CC-5C42-4A4A-A820-C3A2D386134D",
-					"sets": 3,
-					"reps": {
-						"lower": 15,
-						"higher": 15
-					}
-				},
-				{
-					"id": "96C5EEC1-EBA8-46AD-BD25-CB0A428B24DC",
-					"exerciseID": "4569F172-4753-4E29-AF0F-E4CC13C9CF67",
-					"sets": 3,
-					"notes": "Each set to failure"
 				}
 			],
 			"week": 1
 		},
 		{
-			"id": "6EC1688E-CEAC-4F68-92AD-D47AD1A0E968",
+			"name": "Pull",
 			"exercises": [
 				{
 					"id": "D4641C27-08FD-449B-B740-6CF678B91EA3",
-					"exerciseID": "DC220500-97B8-41E1-A8FF-92A4FC9BA643",
-					"sets": 4,
-					"reps": {
-						"lower": 10,
-						"higher": 10
-					}
-				},
-				{
-					"id": "4C6E9AA4-79E1-4073-B352-5EEA1632C6FA",
-					"exerciseID": "DC220500-97B8-41E1-A8FF-92A4FC9BA643",
+					"name": "Romanian dead lift",
 					"sets": 4,
 					"reps": {
 						"lower": 10,
@@ -100,11 +31,11 @@
 			"week": 1
 		},
 		{
-			"id": "411a4959-55fb-4ea7-8dc8-a4bc32a43c07",
+			"name": "Legs",
 			"exercises": [
 				{
 					"id": "c5a8fd9e-2608-45ff-93c4-f418727aa84d",
-					"exerciseID": "98856bfc-6720-4370-a424-2a881ef637b9",
+					"name": "Leg press",
 					"sets": 2,
 					"reps": {
 						"lower": 6,
@@ -113,7 +44,7 @@
 				},
 				{
 					"id": "89e20af2-b30f-4b54-a862-4ef626be66d9",
-					"exerciseID": "98856bfc-6720-4370-a424-2a881ef637b9",
+					"name": "Leg press",
 					"sets": 2,
 					"reps": {
 						"lower": 10,
@@ -122,7 +53,7 @@
 				},
 				{
 					"id": "1b70df4c-8e5b-4de0-bf10-f85b724832d0",
-					"exerciseID": "98856bfc-6720-4370-a424-2a881ef637b9",
+					"name": "Leg press",
 					"sets": 1,
 					"reps": {
 						"lower": 15,
@@ -131,7 +62,7 @@
 				},
 				{
 					"id": "99e38749-8d34-4bc3-b668-0d93934a307b",
-					"exerciseID": "f8278f7b-4a4e-466d-b26d-54170919ae65",
+					"name": "Single leg leg extension",
 					"sets": 4,
 					"reps": {
 						"lower": 10,
@@ -140,7 +71,7 @@
 					"notes": "10 reps for each side.",
 					"superset": {
 						"id": "9c7e2120-c864-4159-b12c-049adda25898",
-						"exerciseID": "e7887075-040b-462e-8fee-04a900936e47",
+						"name": "Alternating dumbbell lunge",
 						"sets": 4,
 						"notes": "10 reps for each side.",
 						"reps": {
@@ -151,7 +82,7 @@
 				},
 				{
 					"id": "dca2235d-3033-4e98-8324-b3bd06abb434",
-					"exerciseID": "d30f8b18-5bb7-409a-96ad-0da8350ee989",
+					"name": "Dumbell Romanian dead lift",
 					"sets": 3,
 					"reps": {
 						"lower": 12,
