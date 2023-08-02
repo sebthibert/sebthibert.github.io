@@ -1,0 +1,30 @@
+{
+    "applinks":
+    {
+        "apps": [
+        ],
+        "details":
+        [
+            {
+                "appID": "1629021357.io.floww.floww",
+                "components":
+                [
+                    {
+                        "/": "*/company/*"
+                    }
+                ],
+                "paths":
+                [
+                    "*/company/*"
+                ]
+            }
+        ]
+    },
+    "webcredentials":
+    {
+        "apps":
+        [
+            "1629021357.io.floww.floww"
+        ]
+    }
+}
