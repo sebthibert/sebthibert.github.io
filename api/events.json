@@ -267,5 +267,14 @@
     "labels" : [
       "friends"
     ]
+  },
+  {
+    "primaryName" : "Leo Brembo",
+    "timestamp" : 1696550400,
+    "category" : "birthday",
+    "labels" : [
+      "friends",
+      "rgm"
+    ]
   }
 ]
